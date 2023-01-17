@@ -1,3 +1,6 @@
 {
-  "redirects": [{ "source": "sergiodxa.com//essays(.*)", "destination": "sergiodxa.com/articles$1" }]
+  "rewrites": [
+    { "source": "/a*", "destination": "https://pomodoro-murex.vercel.app/:asset*" },
+    { "source": "/b*", "destination": "https://pomodoro-murex.vercel.app" }
+  ]
 }
