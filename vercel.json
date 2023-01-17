@@ -5,7 +5,7 @@
       "has": [
         {
           "type": "host",
-          "value": "75290-nuxtjs-redirects.vercel.app"
+          "value": "https://planetofanimals.vercel.app/"
         }
       ],
       "destination": "https://vercel.com/blog/how-the-web-evolves",
@@ -16,7 +16,7 @@
       "has": [
         {
           "type": "host",
-          "value": "75290-nuxtjs-redirects.vercel.app"
+          "value": "https://planetofanimals.vercel.app/"
         }
       ],
       "destination": "https://www.theverge.com/",
