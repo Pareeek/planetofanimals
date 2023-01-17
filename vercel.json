@@ -6,3 +6,11 @@
     }
   ]
 }
+{
+  "redirects": [
+    {
+      "source": "/legacy/:path2*",
+      "destination": "https://github.com/Pareeek/*"
+    }
+  ]
+}
