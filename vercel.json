@@ -3,8 +3,7 @@
     {
       "source": "/legacy1",
       "destination": "https://github.com/Pareeek/planetofanimals/edit/main/vercel.json*"
-       "source": "/legacy2",
-      "destination": "https://github.com*"
+     
     }
   ]
 }
