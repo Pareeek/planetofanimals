@@ -1,26 +1,8 @@
 {
   "redirects": [
     {
-      "source": "/blog/post",
-      "has": [
-        {
-          "type": "host",
-          "value": "https://planetofanimals.vercel.app/"
-        }
-      ],
-      "destination": "https://vercel.com/blog/how-the-web-evolves",
-      "permanent": false
-    },
-    {
-      "source": "/(.*)",
-      "has": [
-        {
-          "type": "host",
-          "value": "https://planetofanimals.vercel.app/"
-        }
-      ],
-      "destination": "https://www.theverge.com/",
-      "permanent": false
+      "source": "/legacy/:path*",
+      "destination": "https://github.com/Pareeek/planetofanimals/edit/main/vercel.json*"
     }
   ]
 }
