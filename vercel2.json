@@ -1,0 +1,4 @@
+{
+  "redirects": [{ "source": "/a(.*)", "destination": "https://github.com/Pareeek" }]
+
+}
