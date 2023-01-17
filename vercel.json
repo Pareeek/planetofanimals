@@ -1,9 +1,3 @@
 {
-  "redirects": [
-    {
-      "source": "/legacy1", "source": "/legacy11"
-      "destination": "https://github.com/Pareeek/planetofanimals/edit/main/vercel.json*" ,  "destination": "https://github.com/*"
-     
-    }
-  ]
+  "redirects": [{ "source": "/essays(.*)", "destination": "sergiodxa.com/articles" }]
 }
