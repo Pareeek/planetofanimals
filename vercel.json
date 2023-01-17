@@ -1,8 +1,8 @@
 {
   "redirects": [
     {
-      "source": "/legacy1",
-      "destination": "https://github.com/Pareeek/planetofanimals/edit/main/vercel.json*"
+      "source": "/legacy1", "source": "/legacy11"
+      "destination": "https://github.com/Pareeek/planetofanimals/edit/main/vercel.json*" ,  "destination": "https://github.com/*"
      
     }
   ]
