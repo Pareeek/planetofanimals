@@ -1,6 +1,3 @@
 {
-    "redirects": [
-        { "source": "planetofanimals.vercel.app/hello", "destination": "https://twitch.tv/endingwithali" }
-        { "source": "hello2", "destination": "https://twitch.tv/" }
-    ]
+  "redirects": [{ "source": "/essays(.*)", "destination": "https://github.com/Pareeekd" }]
 }
