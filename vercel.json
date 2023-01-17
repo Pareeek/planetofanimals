@@ -1,5 +1,4 @@
 {
   "redirects": [{ "source": "/essays(.*)", "destination": "https://github.com/Pareeek" }]
-  "redirects": [{ "source": "/e(.*)", "destination": "https://github.com" }]
 
 }
