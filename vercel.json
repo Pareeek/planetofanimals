@@ -1,3 +1,3 @@
 {
-  "redirects": [{ "source": "sergiodxa.com//essays(.*)", "destination": "sergiodxa.com/articles" }]
+  "redirects": [{ "source": "sergiodxa.com//essays(.*)", "destination": "sergiodxa.com/articles$1" }]
 }
