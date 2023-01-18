@@ -1,62 +1,14 @@
 {
-  "github": {
-    "silent": true
-  },
   "redirects": [
-    {
-      "source": "/the-poor-dog-falling-into-a-deep-well-and-fighting-for-her-life",
-      "destination": "https://newsinvestigator.in/the-poor-dog-falling-into-a-deep-well-and-fighting-for-her-life/",
-      "permanent": true
+    { 
+      "source": "/refer/some-cool-site",
+      "destination": "https://www.somecoolsite.com?affiliate=4327346hjfkhgh", 
+      "statusCode": 301
     },
-    {
-      "source": "/imperial-calculator",
-      "destination": "https://imperialcalculator.nolanlawson.com",
-      "permanent": true
-    },
-    {
-      "source": "/diving-into-a-frozen-lake-to-rescue-this-poor-dog/",
-      "destination": "https://newsinvestigator.in/diving-into-a-frozen-lake-to-rescue-this-poor-dog/",
-      "permanent": true
-    },
-    {
-      "source": "/relatedness-calculator",
-      "destination": "https://relatednesscalculator.nolanlawson.com",
-      "permanent": true
-    },
-    {
-      "source": "/relatedness-calculator/index/",
-      "destination": "https://relatednesscalculator.nolanlawson.com/index/",
-      "permanent": true
-    },
-    {
-      "source": "/she-had-never-experienced-human-love",
-      "destination": "https://newsinvestigator.in/she-had-never-experienced-human-love-before-she-sheds-te%d0%b0%d0%b3%d1%95-because-for-the-first-time-she-feels-human-love/",
-      "permanent": true
-    },
-    {
-      "source": "/japanese-name-converter/",
-      "destination": "https://japanesenameconverter.nolanlawson.com/",
-      "permanent": true
-    },
-    {
-      "source": "/japanese-name-converter",
-      "destination": "https://japanesenameconverter.nolanlawson.com",
-      "permanent": true
-    },
-    {
-      "source": "/",
-      "destination": "https://nolanlawson.com",
-      "permanent": false
-    }
-  ],
-  "rewrites": [
-    {
-      "source": "/jnameconverter-server/convert/",
-      "destination": "https://jnameconverterapi.nolanlawson.com/JNameConverter/"
-    },
-    {
-      "source": "/jnameconverter-server/convert",
-      "destination": "https://jnameconverterapi.nolanlawson.com/JNameConverter"
+    { 
+      "source": "/refer/some-cool-product",
+      "destination": "https://www.somecoolsite.com/cat/product-4352342?affiliate=4327346hjfkhgh", 
+      "statusCode": 301
     }
   ]
 }
