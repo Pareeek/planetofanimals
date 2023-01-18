@@ -7,7 +7,7 @@
     },
     { 
       "source": "/refer/some-cool-product",
-      "destination": "https://www.somecoolsite.com/cat/product-4352342?affiliate=4327346hjfkhgh", 
+      "destination": "https://www.google.com", 
       "statusCode": 301
     }
   ]
